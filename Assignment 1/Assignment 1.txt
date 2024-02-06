@@ -1,0 +1,19 @@
+Assignment
+
+1.	What is computer?
+Ans - A computer is an electronic device that stores and processes data, often in binary form, in accordance with commands from a variable programme.
+2.	What is RAM?
+Ans - RAM is the main memory in a computer. It is much faster to read from and write to than other kinds of storage, such as a hard disk drive (HDD), solid-state drive (SSD).
+3.	Where is data stored in a computer?
+Ans - All data stored on storage media, such as hard disk drives (HDDs), solid state drives (SSDs), external hard drives, USB sticks, and SD cards, can be converted into a series of bits, also known as binary digits.
+4.	What is that input device used to type text and numbers on a document in the computer system?
+Ans – Keyboard.
+5.	What are the output devices?
+Ans – A piece of equipment/hardware which gives out the result of the entered input, once it is processed Monitor, Printer, Speakers and Headphones are some Output Devices of Computer
+6.	Which is the input device that allows a user to move the cursor or pointer on the screen?
+Ans – Mouse.
+7.	Which language is directly understood by the computer without a translation program?
+Ans - Machine language.
+8.	What are Input devices?
+Ans - An input device is a hardware device that transfers data to a computer system and allows us to control it. Examples of input devices include keyboards, computer mice, scanners, cameras and joysticks.
+
