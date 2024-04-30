@@ -1,7 +1,7 @@
 
 class human{
     int age;
-    void sleep()
+    public void sleep()
     {
         age = 20;
         System.out.println("Human need sleep");
