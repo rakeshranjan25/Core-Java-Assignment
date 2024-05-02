@@ -10,8 +10,8 @@ public student(){
 }
 
 public student(String name, int age ){
- this.name=name;
- this.age=age;
+this.name=name;
+this.age=age;
 }
 
 public void dish(){
